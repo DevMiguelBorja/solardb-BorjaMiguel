@@ -1,6 +1,6 @@
 # SolarDB Pascual · Pipeline de ingesta IoT
 
-**Integrantes:** [Nombre completo 1] y [Nombre completo 2]
+**Integrantes:** Miguel Borja 
 **Curso:** Bases de Datos I (SD1006) · **Grupo:** 811 · **Semestre:** 2026-II
 **Docente:** Ramiro Grisales Montoya
 
